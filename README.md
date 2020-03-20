@@ -1,5 +1,2 @@
-# gittest
-sabxsacnjsacjcncjsanc
-ssjkncjksanc sac ks
-sc nsjnc sk s 
-s mskm klmskmdxkmkmdaojv  
+仅仅是一个测试
+
